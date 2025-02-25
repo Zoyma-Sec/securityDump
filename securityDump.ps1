@@ -1,3 +1,4 @@
+Write-Host "Starting Analysis, wait a few mintues..." -ForegroundColor Yellow
 $hostname = $env:COMPUTERNAME
 $logFile = "$(Get-Location)\SecurityScan_${hostname}_$(Get-Date -Format 'yyyyMMdd_HHmmss').txt"
 
