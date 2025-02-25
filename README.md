@@ -1,13 +1,18 @@
 # securityDump
 
-[!WARNING]
-Este script ha sido creado para realizar verificaciones automáticas de seguridad. No debe utilizarse para acciones maliciosas como escalación de privilegios o recopilación de información.
+>[!WARNING]
+> This script has been created to perform automatic security checks. It should not be used for malicious actions such as privilege escalation or information gathering.
 
-## Descripción
-PS1 script para verificar información del sistema en busca de posibles virus o intrusiones. Todas las consultas son nativas de PowerShell. Para obtener más información detallada, puedes utilizar las herramientas "Sysinternals" de Microsoft.
+## Description
+PS1 script to check system information for possible viruses or intrusions. All queries are native to PowerShell. For more in-depth information, you can use Microsoft's "Sysinternals" tools.
 
-## Icono
+## Zoyma
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a629a502-76f3-4749-918f-760da70baf9b" alt="Zoyma icon" width="200"/>
+  <img src="https://github.com/user-attachments/assets/a629a502-76f3-4749-918f-760da70baf9b" alt="Zoyma icon" width="400"/>
 </p>
 
+**Follow me on my social media**
+
+<a href="https://zoyma-sec.github.io/">My website</a>
+</br>
+<a href="http://beacons.ai/zoyma">Follow me</a>
